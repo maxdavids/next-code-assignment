@@ -1,3 +1,9 @@
+# Chief - Code Assignment
+### Developer Notes
+I cannot afford to spend more time on this challenge, please note:
+- Tests pending
+- Tasks and users are not persisted
+
 ## Starting the python service
 
 Set up a virtual environment (do this on initial set-up)
@@ -19,6 +25,8 @@ source ~/my_env/next/bin/activate
 Install dependencies 
 
 ```bash
+cd ./backend
+
 python3 -m pip install -r requirements.txt
 ```
 
