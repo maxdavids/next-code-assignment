@@ -1,6 +1,6 @@
 ## Getting Started
 
-Run the development server:
+Run the project:
 
 ```bash
 yarn dev
